@@ -20,8 +20,8 @@ mock-testing-presentation/
 ├── presentation/
 │   └── mock-presentation.md       # презентация для Obsidian
 ├── code/
-│   ├── main.py                    # тестируемый код
-│   └── test.py                    # тесты с моками
+│   ├── main_mock.py                    # тестируемый код
+│   └── test_mock.py                    # тесты с моками
 └── screenshots/
     └── accepted.png               # скриншот успешных тестов
 ```
