@@ -18,6 +18,7 @@ Mock-тестирование — это подход к тестировани�
 mock-testing-presentation/
 ├── README.md                      # этот файл
 ├── presentation/
+│   ├── Mock-тестирование.pdf      # презентация для Obsidian в формате pdf
 │   └── mock-presentation.md       # презентация для Obsidian
 ├── code/
 │   ├── main_mock.py                    # тестируемый код
