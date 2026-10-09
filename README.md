@@ -24,7 +24,7 @@ mock-testing-presentation/
 │   ├── main_mock.py                    # тестируемый код
 │   └── test_mock.py                    # тесты с моками
 └── screenshots/
-    └── accepted.png               # скриншот успешных тестов
+    └── Снимок экрана 2026-10-09 234325.png               # скриншот успешных тестов
 ```
 
 
